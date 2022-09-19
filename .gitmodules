@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "miic"]
-	path = miic
-	url = https://github.com/miicteam/miic_r_package
-	shallow = true
-	registered = true
